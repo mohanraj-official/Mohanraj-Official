@@ -14,30 +14,6 @@
 
 </div>
 
----
-
-## ▣ Developer Dashboard
-
-<div align="center">
-
-**WELCOME TO MOHANRAJ'S ENGINEERING HUB**
-
-<sub>Public repository insights, contributions, technologies and selected work</sub>
-
-<br/><br/>
-
-![Followers](https://img.shields.io/github/followers/mohanraj-official?style=for-the-badge&label=FOLLOWERS&color=238636&labelColor=0d1117)
-![Profile Views](https://komarev.com/ghpvc/?username=mohanraj-official&label=PROFILE%20VIEWS&color=238636&style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/mohanraj-official?affiliations=OWNER&style=for-the-badge&label=STARS&color=238636&labelColor=0d1117)
-
-<br/>
-
-<img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="98%" alt="GitHub activity profile" />
-
-<img src="./profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="GitHub developer statistics" />
-<img src="./profile-summary-card-output/github_dark/4-productive-time.svg" width="49%" alt="Commit activity by time of day" />
-
-</div>
 
 ### Contribution Activity
 
