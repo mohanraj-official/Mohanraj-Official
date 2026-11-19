@@ -19,7 +19,7 @@
 | AI Assistant | Pipeline | Data Analysis | Machine Learning (ML) | Others |
 |:-------------|:---------|:--------------|:----------------------|:-------|
 | [Jarvis](https://github.com/mohanraj-official/Jarvis) | [Instascope](https://github.com/mohanraj-official/Instascope) | [Dashboards](https://github.com/mohanraj-official/Dashboards) | [Credit Card Fraud Detection](https://github.com/mohanraj-official/Credit-Card-Fraud-Detection) | [KS-MILK](https://github.com/mohanraj-official/KS-MILK) |
-| | | [Power BI - Hyderabad Metro Operations](https://github.com/mohanraj-official/Hyderabad-Metro-Operations) | [Heart Attack Prediction](https://github.com/mohanraj-official/Heart-Attack-Prediction) | [Entri Assignments](https://github.com/mohanraj-official/Entri-Assignments) |
+| | | [Power BI - Hyderabad Metro Operations](https://github.com/mohanraj-official/Hyderabad-Metro-Operations) | [Heart Attack Prediction](https://github.com/mohanraj-official/Heart-Attack) | [Entri Assignments](https://github.com/mohanraj-official/Entri-Assignments) |
 | | | [Python - Marketing Campaign Performance Analysis](https://github.com/mohanraj-official/Marketing-Campaign-Performance-Analysis) | | [LeetCode Questions](https://github.com/mohanraj-official/LeetCode-Questions) |
 | | | [Power BI - Bank Loan Performance Analysis](https://github.com/mohanraj-official/Bank-Loan-Performance-Analysis) | | |
 | | | [MySQL - E-Commerce Customer Churn Analysis](https://github.com/mohanraj-official/E-Commerce-Customer-Churn-Analysis) | | |
