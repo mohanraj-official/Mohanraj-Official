@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/121940251?v=4" width="116" alt="Mohanraj S" />
-
 # MOHANRAJ S
 
 ### Data Engineer · Data Analyst · AI Systems Builder
