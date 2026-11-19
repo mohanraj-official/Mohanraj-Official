@@ -15,6 +15,17 @@
 </div>
 
 
+| AI Assistant | Pipeline | Data Analysis | Machine Learning (ML) | Others |
+|:-------------|:---------|:--------------|:----------------------|:-------|
+| [Jarvis](https://github.com/USERNAME/Jarvis) | [Instascope](https://github.com/USERNAME/Instascope) | [Dashboards](https://github.com/USERNAME/Dashboards) | [Credit Card Fraud Detection](https://github.com/USERNAME/Credit-Card-Fraud-Detection) | [KS-MILK](https://github.com/USERNAME/KS-MILK) |
+| | | [Power BI - Hyderabad Metro Operations](https://github.com/USERNAME/Hyderabad-Metro-Operations) | [Heart Attack Prediction](https://github.com/USERNAME/Heart-Attack-Prediction) | [Entri Assignments](https://github.com/USERNAME/Entri-Assignments) |
+| | | [Python - Marketing Campaign Performance Analysis](https://github.com/USERNAME/Marketing-Campaign-Performance-Analysis) | | [LeetCode Questions](https://github.com/USERNAME/LeetCode-Questions) |
+| | | [Power BI - Bank Loan Performance Analysis](https://github.com/USERNAME/Bank-Loan-Performance-Analysis) | | |
+| | | [MySQL - E-Commerce Customer Churn Analysis](https://github.com/USERNAME/E-Commerce-Customer-Churn-Analysis) | | |
+| | | [Excel - Medical Healthcare Analysis](https://github.com/USERNAME/Medical-Healthcare-Analysis) | | |
+
+
+
 ### Contribution Activity
 
 <div align="center">
