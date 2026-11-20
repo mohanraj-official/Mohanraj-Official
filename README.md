@@ -18,8 +18,9 @@
 | AI Assistant | Pipeline | Data Analysis | Machine Learning (ML) | Others |
 |:-------------|:---------|:--------------|:----------------------|:-------|
 | Jarvis | [InstaScope](https://github.com/mohanraj-official/InstaScope) | [Dashboards](https://github.com/mohanraj-official/DASHBOARDS) | [Credit Card Fraud Detection](https://github.com/mohanraj-official/Machine_Learning-Credit-Card-Fraud-Detection) | [KS-MILK](https://github.com/mohanraj-official/KS-MILK) |
-| | | [Power BI - Hyderabad Metro Operations](https://github.com/mohanraj-official/HYDERABAD-METRO-OPERATIONS) | [Heart Attack Prediction](https://github.com/mohanraj-official/heart_predict) | [Entri Assignments](https://github.com/mohanraj-official/Entri-Assignments) |
-| | | [Python - Marketing Campaign Performance Analysis](https://github.com/mohanraj-official/Python---Marketing-Campaign-Performance-Insights) | | [LeetCode Questions](https://github.com/mohanraj-official/LEETCODE-QUESTIONS) |
+| | | [Qspiders Batch Tracking](https://github.com/mohanraj-official/QSpiders-Training-Batch-Performance) |  [Heart Attack Prediction](https://github.com/mohanraj-official/heart_predict)  | [LeetCode Questions](https://github.com/mohanraj-official/LEETCODE-QUESTIONS)  |
+| | | [Power BI - Hyderabad Metro Operations](https://github.com/mohanraj-official/HYDERABAD-METRO-OPERATIONS) || [Entri Assignments](https://github.com/mohanraj-official/Entri-Assignments) |
+| | | [Python - Marketing Campaign Performance Analysis](https://github.com/mohanraj-official/Python---Marketing-Campaign-Performance-Insights) | | |
 | | | [Power BI - Bank Loan Performance Analysis](https://github.com/mohanraj-official/PowerBI-Bank_loan_Performance_Analysis) | | |
 | | | [MySQL - E-Commerce Customer Churn Analysis](https://github.com/mohanraj-official/MySQL-E-Commerce_Customer_churn_Analysis) | | |
 | | | [Excel - Medical Healthcare Analysis](https://github.com/mohanraj-official/Excel-Medical_Healthcare_Analysis) | | |
@@ -27,6 +28,8 @@
 
 
 
+
+QSpiders-Training-Batch-Performance
 
 ### Contribution Activity
 
